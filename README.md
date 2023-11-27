@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MomnaKhan021
 - 👀 I’m interested in Web Development | Shopify Development
 - 🌱 I Studied Computer Science Fom UET-LHR
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by 
       LinkdeIn Profile:
            https://www.linkedin.com/in/momna-fatima/
